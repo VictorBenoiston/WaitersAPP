@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/styled-components": "^5.1.26"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "react-icons": "^4.7.1"
+  }
+}
