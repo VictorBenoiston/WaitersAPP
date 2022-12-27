@@ -22,7 +22,7 @@ export const OrderConfirmedModal = ({ visible, onOk }: OrderConfirmedModalProps)
                 weight='600'
                 color='#fff'
                 style={{marginTop: 12}}
-                >Pedsido confirmado</Text>
+                >Pedido confirmado</Text>
                 <Text
                 color='#fff'
                 opacity={0.9}
